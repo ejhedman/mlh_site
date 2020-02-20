@@ -1,0 +1,100 @@
+
+
+:root {
+  --main-bg-color: #112428;
+  --bg-color-transparent: rgba(17, 36, 40, .5);
+  --bg-color-superlight: rgba(17, 36, 40, .25);
+  --main-orange-color: #F3C969;
+  --main-green-color: #EDFF86;
+  --main-beige-color: #FFF5B2;
+  --main-teal-color: #D4FCC3;
+
+}
+
+.fa-instagram:hover,
+.fa-linkedin:hover,
+.color-me-teal:hover {
+  color: var(--main-orange-color) !important
+}
+
+.fa-instagram,
+.fa-linkedin {
+  color: var(--main-teal-color) !important;
+  margin-bottom: 10px;
+}
+
+.color-me-teal {
+  color: var(--main-teal-color);
+}
+
+.navbar.navbar-expand-lg.navbar-dark.side-page {
+  background-image: url(../images/menu_edit.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 90% !important;
+}
+
+.navbar-nav {
+  border-radius: 5px;
+}
+
+#navbar-toggler {
+  /* background-color: red !important; */
+  border-color: var(--main-orange-color);
+  border-width: 2px;
+  -webkit-transform: scale(0.6) !important;
+  -moz-transform: scale(0.6) !important;
+  -ms-transform: scale(0.6) !important;
+  transform: scale(0.6) !important;
+}
+
+#navbar-toggler:hover #nav-icon3 span {
+  background-color: var(--main-orange-color);
+}
+
+#long-header {
+  display: block;
+}
+
+#short-header {
+  display: none;
+  text-align: center;
+}
+
+@media screen and (max-width: 991.98px) and (min-width: 600px){
+  #nav-toChangeColor {
+      background-color: var(--main-bg-color) !important;
+      padding: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) and (min-width: 0px) { /* was 420px */
+
+  #navbar-toggler{
+      margin-top: -20px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  #nav-toChangeColor {
+      background-color: var(--main-bg-color) !important;
+      padding: 20px;
+  }
+
+  #long-header {
+      display: none;
+  }
+
+  #short-header {
+      display: block;
+  }
+
+  .navbar-brand{
+      word-wrap: normal;
+      text-align: center;
+      width: 100%;
+      margin-right: 0px !important;
+  }
+
+}

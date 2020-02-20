@@ -1,0 +1,17 @@
+
+.gallery-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  z-index: 900;
+}
+
+@media screen and (max-width: 600px) and (min-width: 0px) { /* was 420px */
+
+  .gallery-content {
+      margin-top: -30px;
+  }
+
+}

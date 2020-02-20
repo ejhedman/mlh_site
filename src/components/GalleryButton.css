@@ -1,0 +1,33 @@
+
+:root {
+  --main-bg-color: #112428;
+  --bg-color-transparent: rgba(17, 36, 40, .5);
+  --bg-color-superlight: rgba(17, 36, 40, .25);
+  --main-orange-color: #F3C969;
+  --main-green-color: #EDFF86;
+  --main-beige-color: #FFF5B2;
+  --main-teal-color: #D4FCC3;
+
+}
+
+.filter.button {
+  list-style: none;
+  padding: 10px 20px;
+  color: var(--main-orange-color);
+  border: 1px solid var(--main-orange-color);
+  margin-right: 15px;
+  text-transform: uppercase;
+  margin: 8px 8px 8px 8px;
+  border-radius: 4px;
+  background-color: var(--bg-color-superlight);
+  text-shadow: var(--main-bg-color);
+  transition: all .5s;
+}
+
+.filter.button:hover,
+.filter.button.active {
+  background-color: rgb(212, 252, 195);
+  background-color: linear-gradient(140deg, rgba(212, 252, 195, 1) 0%, rgba(229, 255, 218, 1) 100%);
+  color: var(--main-bg-color);
+  border: 1px solid var(--main-teal-color);
+}

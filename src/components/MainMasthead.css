@@ -1,0 +1,63 @@
+
+:root {
+  --main-bg-color: #112428;
+  --bg-color-transparent: rgba(17, 36, 40, .5);
+  --bg-color-superlight: rgba(17, 36, 40, .25);
+  --main-orange-color: #F3C969;
+  --main-green-color: #EDFF86;
+  --main-beige-color: #FFF5B2;
+  --main-teal-color: #D4FCC3;
+
+}
+
+.masthead {
+  height: 75vh;
+  /* width: 95%; */
+  min-height: 500px;
+  background:
+      /* top, transparent dark */
+      linear-gradient(rgba(17, 36, 40, 0),
+          rgba(17, 36, 40, .75)),
+      /* bottom, image */
+      url(../images/main_edit.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display:flex;
+  flex-direction:column;
+}
+
+.name {
+  color: white;
+  font-size: 4em;
+}
+
+#animator {
+  color: var(--main-orange-color);
+}
+
+#illustrator {
+  color: var(--main-teal-color);
+}
+
+#programmer {
+  color: var(--main-green-color);
+}
+
+@media screen and (max-width: 600px) and (min-width: 0px) { /* was 420px */
+
+  .masthead {
+      height: 90vh;
+  }
+
+  .titles {
+      font-size: 1.8rem;
+      padding-right: 45px;
+      padding-left: 45px;
+  }
+
+  .name {
+      display: none;
+  }
+
+}

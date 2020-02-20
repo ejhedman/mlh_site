@@ -1,0 +1,158 @@
+
+{
+    "all": {
+      "label":        "all",
+      "description":  "all of it",
+      "items": [
+        {
+          "label":            "myimage1",
+          "title":             "This is my image title",
+          "description":      "this is my more lengthy description1",
+          "thumbnail_href":   "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-JxFvvHr/0/1ecc8be8/Th/soccer-120414-98-Th.jpg",
+          "image_href":       "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-JxFvvHr/0/1ecc8be8/O/soccer-120414-98.jpg"
+        },
+        {
+          "label":             "myimage2",
+          "title":             "This is my image title",
+          "description":       "this is my more lengthy description2",
+          "thumbnail_href":    "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-p6HWNk5/0/46b63f81/Th/soccer-120414-56-Th.jpg",
+          "image_href":        "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-p6HWNk5/0/46b63f81/O/soccer-120414-56.jpg"
+        },
+        {
+          "label":             "myimage3",
+          "title":             "This is my image title",
+          "description":       "this is my more lengthy description3",
+          "thumbnail_href":    "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-bk4zxwF/0/e2c59a7f/Th/soccer-120414-55-Th.jpg",
+          "image_href":        "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-bk4zxwF/0/e2c59a7f/O/soccer-120414-55.jpg"
+        },
+        {
+          "label":             "myimage4",
+          "title":             "This is my image title",
+          "description":       "this is my more lengthy description4",
+          "thumbnail_href":    "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-LWrwvkh/0/88236b8c/Th/soccer-120414-148-Th.jpg",
+          "image_href":        "https://photos.smugmug.com/Needham-Sports/Soccer/Soccer1/i-LWrwvkh/0/88236b8c/O/soccer-120414-148.jpg"
+        }
+      ]
+    },
+    "animation": {
+      "label":        "animation",
+      "active":       true,
+      "description":  "this is folder on of my animation stuff",
+      "items": [
+        {
+          "label":              "myimage1",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description1",
+          "thumbnail_href":     "https://photos.smugmug.com/Needham-Sports/YellowJackets/YellowJackets1/i-2SqbNSf/0/44c10bd4/Th/IMG_7160-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Needham-Sports/YellowJackets/YellowJackets1/i-2SqbNSf/0/44c10bd4/O/IMG_7160.jpg"
+        },
+        {
+          "label":              "myimage2",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description2",
+          "thumbnail_href":     "https://photos.smugmug.com/Needham-Sports/YellowJackets/YellowJackets1/i-WK78XJm/0/80855ed5/Th/IMG_7135-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Needham-Sports/YellowJackets/YellowJackets1/i-WK78XJm/0/80855ed5/O/IMG_7135.jpg"
+        }
+      ]
+    },
+    "illustration":  {
+      "label":        "illustration",
+      "description":  "this is folder on of my folder1 stuff",
+      "items": [
+        {
+          "label":              "myimage3",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description3",
+          "thumbnail_href":     "https://photos.smugmug.com/Old-Sports/Swimming/n-2x6ZLp/Swim-Meet-at-MIT-20110109/i-KXx4zpM/0/a5106680/Th/swimming-110109-264-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Old-Sports/Swimming/n-2x6ZLp/Swim-Meet-at-MIT-20110109/i-KXx4zpM/0/a5106680/O/swimming-110109-264.jpg"
+        },
+        {
+          "label":              "myimage4",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description4",
+          "thumbnail_href":     "https://photos.smugmug.com/Old-Sports/Swimming/n-2x6ZLp/Swim-Meet-at-MIT-20110109/i-86GHhvk/0/2483f96d/Th/swimming-110109-159-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Old-Sports/Swimming/n-2x6ZLp/Swim-Meet-at-MIT-20110109/i-86GHhvk/0/2483f96d/O/swimming-110109-159.jpg"
+        }
+      ]
+    },
+    "painting":  {
+      "label":        "painting",
+      "description":  "this is folder on of my folder1 stuff",
+      "items": [
+        {
+          "label":              "myimage3",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description3",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Easter/i-DnDB29b/0/0e38e174/Th/easter-170415-13-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Easter/i-DnDB29b/0/0e38e174/O/easter-170415-13.jpg"
+        },
+        {
+          "label":              "myimage4",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description4",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Easter/i-WsPhxtg/0/e8996181/Th/easter-170415-1-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Easter/i-WsPhxtg/0/e8996181/O/easter-170415-1.jpg"
+        }
+      ]
+    },
+    "graphic_design":  {
+      "label":        "graphic_design",
+      "description":  "this is folder on of my folder1 stuff",
+      "items": [
+        {
+          "label":              "myimage3",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description3",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Xmas2010/Main-Section/i-zP6XDVp/0/374b7726/Th/xmas-101225-38-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Xmas2010/Main-Section/i-zP6XDVp/0/374b7726/O/xmas-101225-38.jpg"
+        },
+        {
+          "label":              "myimage4",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description4",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Xmas2010/Main-Section/i-P3DxkVK/0/a70eb65a/Th/xmas-101224-96-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Xmas2010/Main-Section/i-P3DxkVK/0/a70eb65a/O/xmas-101224-96.jpg"
+        }
+      ]
+    },
+    "sculpture":  {
+      "label":        "sculpture",
+      "description":  "this is folder on of my sculpture stuff",
+      "items": [
+        {
+          "label":              "myimage3",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description3",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Halloween/i-bPffm2s/0/b278dcbb/Th/halloween-121031-165-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Halloween/i-bPffm2s/0/b278dcbb/O/halloween-121031-165.jpg"
+        },
+        {
+          "label":              "myimage4",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description4",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Halloween/i-QWJkv2J/0/287524e7/Th/halloween-121031-176-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Holidays/Halloween/i-QWJkv2J/0/287524e7/O/halloween-121031-176.jpg"
+        }
+      ]
+    },
+    "code":  {
+      "label":        "code",
+      "description":  "this is folder on of my code stuff",
+      "items": [
+        {
+          "label":              "myimage3",
+          "title":              "This is my image title",
+          "description":        "this is my more lengthy description3",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Other-Stuff/Medicine-wheel/i-6rvtzcw/0/d2c87f9e/Th/medicinewheel-161201-16-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Other-Stuff/Medicine-wheel/i-6rvtzcw/0/d2c87f9e/O/medicinewheel-161201-16.jpg"
+        },
+        {
+          "label":              "myimage4",
+          "title":              "This is my image title",
+          "description":        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem\naperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores\neos qui ratione voluptatem sequi nesciunt.",
+          "thumbnail_href":     "https://photos.smugmug.com/Family/n-F2XKMQ/Other-Stuff/Medicine-wheel/i-tL9tXxv/0/21dfc1a3/Th/medicinewheel-161201-26-Th.jpg",
+          "image_href":         "https://photos.smugmug.com/Family/n-F2XKMQ/Other-Stuff/Medicine-wheel/i-tL9tXxv/0/21dfc1a3/O/medicinewheel-161201-26.jpg"
+        }
+      ]
+    }
+  }
